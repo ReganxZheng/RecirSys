@@ -29,7 +29,6 @@ public class test {
         driver_list.add(new Driver("Webber Jiang", "REC002",4));
         driver_list.add(new Driver("Charlie Ye","REC003", 3));
         driver_list.add(new Driver("Antony Li", "REC004", 2));
-        //atom://teletype/portal/28bf6ac9-cfdc-469f-a0ba-38e4e745903f
         sortList();
         System.out.println(driver_list.toString());
     }
